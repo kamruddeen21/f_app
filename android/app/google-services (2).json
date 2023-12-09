@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "78570723611",
+    "project_id": "f-app-49ee1",
+    "storage_bucket": "f-app-49ee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78570723611:android:09e55b901c906555949bbe",
+        "android_client_info": {
+          "package_name": "com.shopping.f_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD08IE729edzwXDub3ucb7TTdblGGC49BI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
